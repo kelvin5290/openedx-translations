@@ -31,5 +31,7 @@
   "header.menu.signOut.label": "Log Keluar",
   "header.user.menu.studio": "Rumah Studio",
   "header.label.courseOutline": "Kembali ke rangka kursus dalam Studio",
-  "header.label.search.nav": "Cari kandungan"
+  "header.label.search.nav": "Cari kandungan",
+  "header.menu.language": "Bahasa",
+  "messages.language": "Bahasa"
 }
