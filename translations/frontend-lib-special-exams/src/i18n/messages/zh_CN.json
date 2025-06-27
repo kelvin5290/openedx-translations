@@ -108,7 +108,7 @@
   "exam.ProctoringSoftwareDownloadedModal.title": "系统检查成功",
   "exam.ProctoringSoftwareDownloadedModal.body": "单击“开始考试”继续。",
   "exam.startExamInstructions.title": "评分测验",
-  "exam.startExamInstructions.text1": "这是一个设有 30 分钟时限的评分测验。",
+  "exam.startExamInstructions.text1": "这是一个设有 {examDurationInMinutes} 分钟时限的评分测验。",
   "exam.startExamInstructions.text2": "请点击「开始」并作答。完成所有试题后，请点击「结束」，并等候成绩公布。",
   "exam.startExamInstructions.text3": "注：请勿在进行评分测验时中途离开，否则将被视为放弃一次考核机会，并须重新进行测验。",
   "exam.submitExamInstructions.title": "你确定要提交定时考试吗？",
