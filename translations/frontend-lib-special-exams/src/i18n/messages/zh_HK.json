@@ -108,7 +108,7 @@
    "exam.ProctoringSoftwareDownloadedModal.title": "系統檢查成功",
    "exam.ProctoringSoftwareDownloadedModal.body": "點選「開始考試」繼續。",
    "exam.startExamInstructions.title": "評分測驗",
-   "exam.startExamInstructions.text1": "這是一個設有30分鐘時限的評分測驗。",
+   "exam.startExamInstructions.text1": "這是一個設有 {examDurationInMinutes} 分鐘時限的評分測驗。",
    "exam.startExamInstructions.text2": "請點擊「開始」並作答。在完成所有試題後，請點擊「結束」，並等候成績公布。",
    "exam.startExamInstructions.text3": "註：請勿在進行評分測驗時中途離開，否則將被視為放棄一次考核機會，並須重新進行測驗。",
    "exam.submitExamInstructions.title": "你確定要提交定時考試嗎？",
