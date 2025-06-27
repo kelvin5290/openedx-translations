@@ -160,5 +160,6 @@
   "learner-dash.courseCard.banners.credit.requestCredit": "申请学分",
   "learner-dash.courseCard.banners.credit.viewCredit": "查看认证",
   "learner-dash.courseCard.banners.credit.viewDetails": "查看详情",
-  "header.menu.language": "语言"
+  "header.menu.language": "语言",
+  "learner-dash.courseCard.actions.dueCourse"": "已过期"
 }
