@@ -1,0 +1,326 @@
+en:
+  '% Correct': '% Betul'
+  '% Incorrect': '% Tidak betul'
+  '% Video Seconds Rewatched': '% Detik Video Ditonton Semula'
+  '% Video Seconds Watched': '% Video Detik Ditonton'
+  ? |-
+    <dl>
+    <dt>Avg % Correct on 1st Attempt </dt>
+    <dd> The average percentage of correct answers on the first attempt of the learners who attempted the problem. </dd>
+    </dl>
+  : |-
+    <dl>
+    <dt>Purata % Betul pada Percubaan Pertama</dt>
+    <dd>Purata peratusan jawapan betul pada percubaan pertama pelajar yang mencuba masalah. </dd>
+    </dl>
+  Action: Tindakan
+  Action Count: Kiraan Tindakan
+  Action Date: Tarikh Tindakan
+  Active: Aktif
+  Active Courses: Kursus Aktif
+  Active Learner: Pelajar Aktif
+  Active Learners: Pelajar Aktif
+  Active Users Per Organization: Pengguna Aktif Setiap Organisasi
+  Active Within Last 7 Days: Aktif Dalam 7 Hari Terakhir
+  Actor ID: ID pelakon
+  Actor Id: Id pelakon
+  Actors Count: Kiraan Pelakon
+  Approving State: Negeri yang Meluluskan
+  At Risk: Berisiko
+  At-Risk Learners: Pelajar Berisiko
+  Attempted All Problems: Mencuba Segala Masalah
+  Attempted At Least One Problem: Mencuba Sekurang-kurangnya Satu Masalah
+  Attempts: Percubaan
+  Avg % Correct on 1st Attempt: Purata % Betul pada Percubaan Pertama
+  Avg Attempts: Purata Percubaan
+  Avg Correct Attempts Coursewide: Purata Percubaan Betul Seluruh Kursus
+  Avg Correct Attempts by Selected Learners: Purata Percubaan Betul oleh Pelajar Terpilih
+  Avg Course Grade: Gred Kursus Purata
+  Avg Incorrect Attempts Coursewide: Purata Percubaan Salah Seluruh Kursus
+  Avg Incorrect Attempts by Selected Learners: Purata Percubaan Salah oleh Pelajar Terpilih
+  Avg Video Length (seconds): Purata Panjang Video (saat)
+  Block ID: ID Sekat
+  Block Id: Id Sekat
+  COUNT(*): COUNT(*)
+  Changed By Fk: Diubah Oleh Fk
+  Changed On: Diubah Hidup
+  Chart showing the number of Superset actions taken on each chart in the selected time period.: Carta yang menunjukkan bilangan tindakan Superset yang diambil pada setiap carta dalam tempoh masa yang dipilih.
+  Chart showing the number of Superset actions taken on each dashboard in the selected time period.: Carta yang menunjukkan bilangan tindakan Superset yang diambil pada setiap papan pemuka dalam tempoh masa yang dipilih.
+  Chart showing the number of registered users over the selected time period.: Carta menunjukkan bilangan pengguna berdaftar sepanjang tempoh masa yang dipilih.
+  ClickHouse: ClickHouse
+  ClickHouse metrics: metrik ClickHouse
+  Content Level: Tahap Kandungan
+  Correct Attempts: Percubaan yang betul
+  Correct Attempts By Learner: Percubaan Betul Oleh Pelajar
+  Correct Attempts by Selected Learner: Percubaan Betul oleh Pelajar Terpilih
+  Count: Kira
+  Count of Passing Grades: Kiraan Gred Lulus
+  Count of unique users who performed an action in Superset over the selected time period.: Bilangan pengguna unik yang melakukan tindakan dalam Superset sepanjang tempoh masa yang dipilih.
+  Count over time of unique users who performed an action in Superset over the selected time period.: Kira dari semasa ke semasa pengguna unik yang melakukan tindakan dalam Superset sepanjang tempoh masa yang dipilih.
+  Course Comparison Dashboard: Papan Pemuka Perbandingan Kursus
+  Course Dashboard: Papan Pemuka Kursus
+  Course Data JSON: Data Kursus JSON
+  Course End: Tamat Kursus
+  Course Enrollment Mode Status Cnt: Status Mod Pendaftaran Kursus Cnt
+  Course Enrollments Over Time: Status Mod Pendaftaran Kursus Cnt
+  Course Grade: Gred Kursus
+  Course Grade %: Gred Kursus %
+  Course ID: ID Kursus
+  Course Info: Info Kursus
+  Course Information: Maklumat Kursus
+  Course Key: Kunci Kursus
+  Course Key Short: Pendek Kunci Kursus
+  Course Metrics: Metrik Kursus
+  Course Name: Nama Kursus
+  Course Order: Pesanan Kursus
+  Course Run: Larian Kursus
+  Course Start: Permulaan Kursus
+  Course Tag: Tag Kursus
+  Course grade: Gred kursus
+  Course name: Nama kursus
+  Course run: Larian kursus
+  Courses: Kursus
+  Courses Cnt: Kursus Cnt
+  Courses Per Organization: Kursus Setiap Organisasi
+  Coursewide % Correct: Seluruh Kursus % Betul
+  Coursewide Percent Correct: Peratus Seluruh Kursus Betul
+  Coursewide averages are based on learners who attempted the problem.: Purata seluruh kursus adalah berdasarkan pelajar yang mencuba masalah tersebut.
+  Coursewide percentages are based on learners who attempted the problem.: Peratusan seluruh kursus adalah berdasarkan pelajar yang mencuba masalah tersebut.
+  Created: Dicipta
+  Created By Fk: Dicipta Oleh Fk
+  Created On: Dicipta Pada
+  Cumulative Enrollments by Track: Pendaftaran Terkumpul mengikut Trek
+  Cumulative Interactions: Interaksi Terkumpul
+  Current Active Enrollments By Mode: Pendaftaran Aktif Semasa Mengikut Mod
+  Current Enrollees: Pendaftar Semasa
+  Currently Enrolled Users: Pengguna Yang Didaftarkan Pada Masa Ini
+  Dashboard ID: ID papan pemuka
+  Dashboard Status: Status Papan Pemuka
+  Dashboard Title: Tajuk Papan Pemuka
+  Datasource ID: ID sumber data
+  Datasource Name: Nama Sumber Data
+  Datasource Type: Jenis Sumber Data
+  Date: tarikh
+  Description: Penerangan
+  Display Name: Nama Paparan
+  Displays the top 10 highest enrollment courses. Selecting different courses in the filter will display those courses.: Memaparkan 10 kursus pendaftaran tertinggi teratas. Memilih kursus yang berbeza dalam penapis akan memaparkan kursus tersebut.
+  Distribution of Course Grades: Pengagihan Gred Kursus
+  Distribution of Current Course Grade: Taburan Gred Kursus Semasa
+  Dump ID: Dump ID
+  Duration (Seconds): Tempoh (Saat)
+  Email: E-mel
+  Emission Day: Hari Pelepasan
+  Emission Hour: Jam Pelepasan
+  Emission Time: Masa Pelepasan
+  Engagement: Pertunangan
+  Enrolled At: Berdaftar Di
+  Enrollees by Enrollment Track: Mendaftar mengikut Laluan Pendaftaran
+  Enrollees per Enrollment Track: Mendaftar setiap Track Pendaftaran
+  Enrollment: Pendaftaran
+  Enrollment Counts: Kiraan Pendaftaran
+  Enrollment Date: Tarikh Pendaftaran
+  Enrollment Dates: Tarikh Pendaftaran
+  Enrollment End: Pendaftaran Tamat
+  Enrollment Mode: Mod Pendaftaran
+  Enrollment Start: Pendaftaran Mula
+  Enrollment Status: Status Pendaftaran
+  Enrollment Track: Trek Pendaftaran
+  Enrollment status: Status pendaftaran
+  Enrollment track: Trek pendaftaran
+  Enrollments: Pendaftaran
+  Event Activity: Aktiviti Acara
+  Event ID: ID acara
+  Event String: Rentetan Peristiwa
+  Event Time: Masa Peristiwa
+  Events Cnt: Peristiwa Cnt
+  Fail Login Count: Kiraan Log Masuk Gagal
+  First Name: Nama Pertama
+  Full Views: Pandangan Penuh
+  Grade Bucket: Baldi Gred
+  Grade Range: Julat Gred
+  Grade range: Julat gred
+  Graded: Digredkan
+  Graded Learners: Murid Berperingkat
+  Help: Tolong
+  Http User Agent: Ejen Pengguna Http
+  Id: Id
+  Incorrect Attempts: Percubaan yang salah
+  Incorrect Attempts By Learner: Percubaan Salah Oleh Pelajar
+  Incorrect Attempts by Selected Learner: Percubaan Salah oleh Pelajar Terpilih
+  Individual Learner: Pelajar Individu
+  Instance Health: Kesihatan Contoh
+  Interaction Type: Jenis Interaksi
+  Last Course Published: Kursus Terakhir Diterbitkan
+  Last Login: Log Masuk Terakhir
+  Last Name: Nama Akhir
+  Last Received Event: Acara Terakhir Diterima
+  Last Visit Date: Tarikh Lawatan Terakhir
+  Last Visited: Terakhir Dilawati
+  Last course syncronized: Kursus terakhir disegerakkan
+  Learner Performance: Prestasi Pelajar
+  Learner Performance Breakdown: Pecahan Prestasi Pelajar
+  Learner Status: Status Pelajar
+  Learner Summary: Ringkasan Pelajar
+  Learners: Pelajar
+  Learners with Passing Grade: Pelajar dengan Gred Lulus
+  Login Count: Kiraan Log Masuk
+  Median Attempts: Percubaan Median
+  Median Course Grade: Gred Kursus Median
+  Memory Usage (KB): Penggunaan Memori (KB)
+  Memory Usage Mb: Penggunaan Memori Mb
+  Modified: Diubah suai
+  More details: Butiran lanjut
+  Most-used Charts: Carta yang paling banyak digunakan
+  Most-used Dashboards: Papan Pemuka yang paling banyak digunakan
+  Name: Nama
+  Name Org: Nama Org
+  Number of Learners: Bilangan Pelajar
+  Number of Learners who Attempted the Problem: Bilangan Pelajar yang Mencuba Masalah
+  Number of Videos: Bilangan Video
+  Number of Videos Watched: Bilangan Video Ditonton
+  Number of Views across Video Duration: Bilangan Tontonan merentas Tempoh Video
+  Object ID: ID objek
+  Object Id: Id Objek
+  Object Type: Jenis Objek
+  Only available in versions Redwood and later: Hanya tersedia dalam versi Redwood dan lebih baru
+  Operator Dashboard: Papan Pemuka Operator
+  Org: Org
+  Organization: Organisasi
+  Organizations: Organisasi
+  Overview: Gambaran keseluruhan
+  Page Count: Kiraan Halaman
+  Page Engagement Over Time: Penglibatan Halaman Dari Masa
+  Page Engagement per Section: Penglibatan Halaman setiap Bahagian
+  Page Engagement per Section/Subsection: Penglibatan Halaman setiap Bahagian/Subseksyen
+  Page Engagement per Subsection: Penglibatan Halaman setiap Subseksyen
+  Pages: muka surat
+  Partial Views: Pandangan Separa
+  Partial and Full Video Views: Tontonan Video Separa dan Penuh
+  Pass/Fail: Lulus/Gagal
+  Passed: lulus
+  Passed/Failed: Lulus/Gagal
+  Password: Kata laluan
+  Performance: Prestasi
+  Problem Attempts: Percubaan Masalah
+  Problem Attempts and Results: Percubaan dan Keputusan Masalah
+  Problem Engagement per Section: Penglibatan Masalah setiap Bahagian
+  Problem Engagement per Section/Subsection: Penglibatan Masalah setiap Bahagian/Subseksyen
+  Problem Engagement per Subsection: Penglibatan Masalah setiap Subseksyen
+  Problem Id: Id Masalah
+  Problem Link: Pautan Masalah
+  Problem Location and Name: Lokasi dan Nama Masalah
+  Problem Name: Nama Masalah
+  Problem Name With Location: Nama Masalah Dengan Lokasi
+  Problem Results: Keputusan Masalah
+  Problems: Masalah
+  Query: Pertanyaan
+  Query Duration Ms: Tempoh Pertanyaan Pn
+  Query performance: Prestasi pertanyaan
+  Read Rows: Baca Baris
+  Repeat Views: Ulang Pandangan
+  Responses: Jawapan
+  Result: Hasilnya
+  Result Rows: Barisan Keputusan
+  Rewatched Time: Masa Ditonton Semula
+  Rownum: Rownum
+  Run Metrics: Jalankan Metrik
+  Run Name: Nama Jalankan
+  Section Location and Name: Bahagian Lokasi dan Nama
+  Section Name: Nama Bahagian
+  Section Subsection Video Engagement: Bahagian Penglibatan Video Subseksyen
+  Section Summary: Ringkasan Bahagian
+  Section With Name: Bahagian Dengan Nama
+  Section with name: Bahagian dengan nama
+  Section/Subsection Name: Nama Bahagian/Subseksyen
+  Section/Subsection Page Enggagement: Penglibatan Halaman Bahagian/Subseksyen
+  Section/Subsection Problem Engagement: Penglibatan Masalah Bahagian/Subseksyen
+  Section/Subsection Video Engagement: Penglibatan Video Bahagian/Subseksyen
+  Segment Range: Julat Segmen
+  Segment Start: Mulakan Segmen
+  Selected Learner % Correct: Pelajar Terpilih % Betul
+  Selected Learner % Incorrect: Pelajar yang Dipilih % Salah
+  Selected Learner Percent Correct: Peratusan Pelajar Terpilih Betul
+  Selected Learner Percent Incorrect: Peratusan Pelajar yang Dipilih Salah
+  Selected Learners % Correct: Pelajar Terpilih % Betul
+  Selected Learners % Incorrect: Pelajar Terpilih % Salah
+  Self Paced: Self Paced
+  Slice ID: ID kepingan
+  Slice Name: Nama Slice
+  Slowest ClickHouse Queries: Pertanyaan ClickHouse Paling Lambat
+  Start Position: Kedudukan Mula
+  Started At: Bermula Pada
+  Subsection Location and Name: Subseksyen Lokasi dan Nama
+  Subsection Name: Nama Subseksyen
+  Subsection Summary: Ringkasan Subseksyen
+  Subsection With Name: Subseksyen Dengan Nama
+  Subsection with name: Subseksyen dengan nama
+  Success: Kejayaan
+  Superset: Superset
+  Superset Active Users: Pengguna Aktif Superset
+  Superset Active Users Over Time: Pengguna Aktif Superset Sepanjang Masa
+  Superset Registered Users Over Time: Superset Pengguna Berdaftar Dari Masa
+  Tables: Meja
+  Tag: Tag
+  Tags: Tag
+  Time Grain: Bijian Masa
+  Time Last Dumped: Masa Terakhir Dibuang
+  Time Range: Julat Masa
+  ? To view the number of views across the duration of a single video, click the name
+    of the video in the Video Link column in table above.
+  : "Untuk melihat bilangan tontonan merentas tempoh satu video, klik nama video dalam lajur Pautan Video dalam jadual di atas."
+  Total: Jumlah
+  Total Courses: Jumlah Kursus
+  Total Organizations: Jumlah Organisasi
+  Total Views: Jumlah Paparan
+  Unique Viewers: Penonton Unik
+  User ID: ID pengguna
+  User Info: Maklumat Pengguna
+  User Name: Nama Pengguna
+  User Registration Date: Tarikh Pendaftaran Pengguna
+  Username: Nama pengguna
+  Value: Nilai
+  Verb: Kata kerja
+  Verb ID: ID kata kerja
+  Video Count: Kiraan Video
+  Video Duration: Tempoh Video
+  Video Engagement: Penglibatan Video
+  Video Engagement per Section: Penglibatan Video setiap Bahagian
+  Video Engagement per Section/Subsection: Penglibatan Video setiap Bahagian/Subseksyen
+  Video Engagement per Subsection: Penglibatan Video setiap Subseksyen
+  Video Event: Acara Video
+  Video ID: ID Video
+  Video Id: Id Video
+  Video Link: Pautan Video
+  Video Location and Name: Lokasi dan Nama Video
+  Video Name: Nama Video
+  Video Name With Location: Nama Video Dengan Lokasi
+  Video Position: Kedudukan Video
+  Video Segment Count: Kiraan Segmen Video
+  Videos: Video
+  Viewed All Pages: Melihat Semua Halaman
+  Viewed All Videos: Melihat Semua Video
+  Viewed At Least One Page: Melihat Sekurang-kurangnya Satu Halaman
+  Viewed At Least One Video: Menonton Sekurang-kurangnya Satu Video
+  Visited On: Dilawati Pada
+  Visualization Bucket: Baldi Visualisasi
+  Watched Entire Video: Menonton Keseluruhan Video
+  Watched Segment Count: Kiraan Segmen yang Ditonton
+  Watched Time: Masa ditonton
+  audit: audit
+  failed: gagal
+  graded: digredkan
+  honor: penghormatan
+  order: pesanan
+  passed: lulus
+  registered: berdaftar
+  section_subsection_name: nama_subseksyen
+  section_subsection_page_engagement: section_subsection_page_engagement
+  section_subsection_problem_engagement: section_subsection_problem_engagement
+  ungraded: tidak dinilai
+  unregistered: tidak berdaftar
+  verified: disahkan
+  '{{ASPECTS_COURSE_COMPARISON_HELP_MARKDOWN}}': ''
+  '{{ASPECTS_COURSE_OVERVIEW_HELP_MARKDOWN}}': ''
+  '{{ASPECTS_INDIVIDUAL_LEARNER_HELP_MARKDOWN}}': ''
+  '{{ASPECTS_LEARNER_GROUPS_HELP_MARKDOWN}}': ''
+  '{{ASPECTS_OPERATOR_HELP_MARKDOWN}}': ''
