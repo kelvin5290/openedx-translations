@@ -1,7 +1,7 @@
 {
   "learner-dash.loadingSR": "กำลังโหลด...",
   "learner-dash.error-page-message": "หากคุณพบความล้มเหลวซ้ำๆ โปรดส่งอีเมลถึงฝ่ายสนับสนุนที่ {supportEmail}",
-  "learner-dash.title": "Green Radar Training Platform",
+  "learner-dash.title": "grAwareness Training Platform",
   "zendesk.supportTitle": "การสนับสนุน edX",
   "zendesk.selectTicketForm": "โปรดเลือกประเภทคำขอของคุณ:",
   "learner-dash.courseCard.bannerAlt": "ภาพขนาดย่อของหลักสูตร",
