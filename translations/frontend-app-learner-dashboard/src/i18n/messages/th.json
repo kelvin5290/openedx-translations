@@ -37,7 +37,7 @@
   "leanerDashboard.enterpriseDialogBody": "หากต้องการเข้าถึงหลักสูตรที่มีให้คุณผ่าน {label} โปรดไปที่แดชบอร์ด {label} ทันที",
   "leanerDashboard.enterpriseDialogDismissButton": "ถอดถอน",
   "leanerDashboard.enterpriseDialogConfirmButton": "ไปที่แผงควบคุม",
-  "learnerVariantDashboard.menu.dashboard.label": "แดชบอร์ด",
+  "learnerVariantDashboard.menu.dashboard.label": "ห้องสมุดหลักสูตร",
   "learnerVariantDashboard.menu.dashboardPersonal.label": "ส่วนตัว",
   "learnerVariantDashboard.menu.dashboardSwitch.label": "สลับแดชบอร์ด",
   "learnerVariantDashboard.help.label": "Help",
